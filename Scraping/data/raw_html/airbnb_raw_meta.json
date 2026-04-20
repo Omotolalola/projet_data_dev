@@ -1,109 +1,109 @@
 {
   "source": "https://www.airbnb.fr/s/Paris/homes",
-  "date_collecte": "2026-04-20T10:35:40.615940",
+  "date_collecte": "2026-04-20T11:55:35.604496",
   "robots_txt": "robots.txt consulté — scraping via API interne GraphQL, pas de crawl HTML. Fréquence limitée à 1 requête/1.5s. Aucune donnée personnelle collectée.",
-  "nb_resultats": 253,
+  "nb_resultats": 258,
   "nb_pages": 17,
   "pages_meta": [
     {
       "page": 1,
-      "date_collecte": "2026-04-20T10:34:49.583011",
+      "date_collecte": "2026-04-20T11:54:48.663925",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjowLCJ2ZXJzaW9uIjoxfQ==",
       "nb_resultats": 16
     },
     {
       "page": 2,
-      "date_collecte": "2026-04-20T10:34:52.765826",
+      "date_collecte": "2026-04-20T11:54:51.607861",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNiwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 3,
-      "date_collecte": "2026-04-20T10:34:56.058911",
+      "date_collecte": "2026-04-20T11:54:54.338005",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjozMiwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 4,
-      "date_collecte": "2026-04-20T10:34:59.153103",
+      "date_collecte": "2026-04-20T11:54:57.544558",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo0OCwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 5,
-      "date_collecte": "2026-04-20T10:35:02.293694",
+      "date_collecte": "2026-04-20T11:55:00.475830",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo2NCwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 6,
-      "date_collecte": "2026-04-20T10:35:05.214007",
+      "date_collecte": "2026-04-20T11:55:03.256355",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo4MCwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 7,
-      "date_collecte": "2026-04-20T10:35:08.245707",
+      "date_collecte": "2026-04-20T11:55:06.171405",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo5NiwidmVyc2lvbiI6MX0=",
       "nb_resultats": 16
     },
     {
       "page": 8,
-      "date_collecte": "2026-04-20T10:35:11.439136",
+      "date_collecte": "2026-04-20T11:55:08.900857",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMTIsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 9,
-      "date_collecte": "2026-04-20T10:35:14.635272",
+      "date_collecte": "2026-04-20T11:55:11.676598",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMjgsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 10,
-      "date_collecte": "2026-04-20T10:35:17.584600",
+      "date_collecte": "2026-04-20T11:55:15.142183",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNDQsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 11,
-      "date_collecte": "2026-04-20T10:35:20.417829",
+      "date_collecte": "2026-04-20T11:55:18.053005",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNjAsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 12,
-      "date_collecte": "2026-04-20T10:35:24.365584",
+      "date_collecte": "2026-04-20T11:55:20.890186",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNzYsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 13,
-      "date_collecte": "2026-04-20T10:35:27.660667",
+      "date_collecte": "2026-04-20T11:55:24.154573",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOTIsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 14,
-      "date_collecte": "2026-04-20T10:35:30.860389",
+      "date_collecte": "2026-04-20T11:55:26.947994",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoyMDgsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 15,
-      "date_collecte": "2026-04-20T10:35:34.053059",
+      "date_collecte": "2026-04-20T11:55:29.862809",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoyMjQsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 16,
-      "date_collecte": "2026-04-20T10:35:37.360023",
+      "date_collecte": "2026-04-20T11:55:32.602482",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoyNDAsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     },
     {
       "page": 17,
-      "date_collecte": "2026-04-20T10:35:40.444312",
+      "date_collecte": "2026-04-20T11:55:35.426810",
       "cursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoyNTYsInZlcnNpb24iOjF9",
       "nb_resultats": 16
     }
