@@ -1,0 +1,6 @@
+﻿day,order,start_time,end_time,duration_hours,id,name,room_type,city,predicted_price,value,distance_km
+Jour 1,1,09:00,10:27,1.45,RGVtYW5kU3RheUxpc3Rpbmc6MTY2MDY3ODkyNzM0OTE2NzMwOQ==,"Le Marais Paris Centre, 2 salles de bains, 6 max.",Appartement,,1288.55,1288.55,0.43
+Jour 1,2,10:27,11:56,1.49,RGVtYW5kU3RheUxpc3Rpbmc6MTQ3NjU4NTA3MTA0NTI3ODQxMg==,Charmant deux-pièces à deux pas de Notre-Dame,Appartement,,1281.93,1281.93,0.73
+Jour 1,3,11:56,13:24,1.47,RGVtYW5kU3RheUxpc3Rpbmc6MTE2Mzg1NDQ5NDkzMDQ5ODI2Ng==,Appartement au cœur de Paris 5E,Appartement,,1278.67,1278.67,0.57
+Jour 1,4,13:24,14:53,1.49,RGVtYW5kU3RheUxpc3Rpbmc6MTY1NzIyNTQzMTkzNzE4NjQyMw==,Appartement au top 1 chambre/4 personnes – Musée du Louvre,Appartement,,1290.32,1290.32,0.76
+Jour 1,5,14:53,16:33,1.66,RGVtYW5kU3RheUxpc3Rpbmc6MTU1MzU0MTc4Njc2OTQ3NDA0NA==,chambre bien situer au coeur de Paris,Chambre d'hôtes,,1185.16,1185.16,2.15
